@@ -123,16 +123,16 @@ label{
     height: 30px;
     width: 100%;
 }
-
 .força{
-    height: 30px;
     position: relative;
     bottom: 30px;
-}
+    height: 30px;
 
+}
 .fraca{
     width: 25%;
-    background-color: #E31B32;
+    background-color: #E71B32;
+
 }
 
 .media{
